@@ -1,0 +1,25 @@
+Project Title: Rule-Based AI Chatbot
+
+Objective:
+To develop a simple chatbot that responds to predefined
+user inputs using if-else decision-making logic.
+
+Features:
+- Greeting responses
+- Exit commands
+- Help command
+- Current time display
+- Continuous interaction loop
+
+Technologies Used:
+- Python 3
+
+Concepts Used:
+- If-Else Statements
+- While Loop
+- User Input Handling
+- Rule-Based Logic
+
+Developed For:
+DecodeLabs Artificial Intelligence Internship
+Project 1 - Rule-Based AI Chatbot
